@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 name: Linear
 description: Linear template for Jekyll
 paginate: 10
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 81f123160b50878753df84356456a664304ff98e
